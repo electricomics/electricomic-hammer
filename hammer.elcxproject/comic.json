@@ -1,0 +1,23 @@
+{
+    "config": {
+        "buttons": [],
+        "features": [
+            "tap"
+        ],
+        "orientation": "landscape"
+    },
+    "creators": [
+        {
+            "name": "Will Oates",
+            "role": "Electrificator"
+        },
+        {
+            "name": "Daniel Merlin Goodbrey",
+            "role": "Author"
+        }
+    ],
+    "publish_date": "09/09/15",
+    "summary": "A dark little post human fable called Grandfather's Hammer.",
+    "title": "Grandfather's Hammer",
+    "version": 1
+}

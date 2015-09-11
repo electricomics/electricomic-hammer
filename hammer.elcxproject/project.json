@@ -1,0 +1,640 @@
+{
+  "title": "Electricomic",
+  "screenW": 1024,
+  "screenH": 768,
+  "pxRatio": 1,
+  "pages": [
+    null,
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_k9pmmefgh",
+          "src": "images/hammer30001.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 1,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_nrhwqycid",
+          "src": "images/hammer30002.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 2,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_o6f6cdzsi",
+          "src": "images/hammer30003.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 3,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_eshzlr66d",
+          "src": "images/hammer30004.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 4,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_8d7scz8hr",
+          "src": "images/hammer30005.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 5,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_ek0qd1bl0",
+          "src": "images/hammer30006.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 6,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_34j05up3s",
+          "src": "images/hammer30007.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 7,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_irc0guo3v",
+          "src": "images/hammer30008.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 8,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_8fgs92443",
+          "src": "images/hammer30009.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 9,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_sq1cg9fwu",
+          "src": "images/hammer30010.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 10,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_lpr3jxdyx",
+          "src": "images/hammer30011.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 11,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_tu3mg1pp2",
+          "src": "images/hammer30013.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 12,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_3886c59d1",
+          "src": "images/hammer30013.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 2048,
+          "naturalH": 1408,
+          "pageN": 13,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_31l5j4921",
+          "src": "images/hammer30014.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 14,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_fx5yir3x0",
+          "src": "images/hammer30015.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 15,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_pjab12z5h",
+          "src": "images/hammer30016.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 16,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_5ulv0mkoh",
+          "src": "images/hammer30017.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 17,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_wkzvs0uau",
+          "src": "images/hammer30018.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 18,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_jqkg32at4",
+          "src": "images/hammer30019.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 19,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_fv9xkas2w",
+          "src": "images/hammer30020.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 20,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_p8ct59svj",
+          "src": "images/hammer30021.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 21,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_0ts3c0qu5",
+          "src": "images/hammer30022.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 22,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_8q3om03qu",
+          "src": "images/hammer30023.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 23,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_o8hr9dtpt",
+          "src": "images/hammer30024.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 24,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_6lbwvm52n",
+          "src": "images/hammer30025.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 25,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_uo44txsun",
+          "src": "images/hammer30026.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 26,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_bp8venbvi",
+          "src": "images/hammer30027.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 27,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_h9jhftcn8",
+          "src": "images/hammer30028.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 28,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_zflm65elq",
+          "src": "images/hammer30029.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 29,
+          "panelN": 1
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "",
+      "show": true,
+      "panels": [
+        null,
+        {
+          "id": "_7n38prcdq",
+          "src": "images/hammer30030.png",
+          "x": 0,
+          "y": 0,
+          "z": 1,
+          "w": "1024",
+          "h": "768",
+          "naturalW": 0,
+          "naturalH": 0,
+          "pageN": 30,
+          "panelN": 1
+        }
+      ]
+    }
+  ],
+  "save": false
+}
