@@ -1,5 +1,20 @@
 {
-  "title": "Electricomic",
+  "title": "Grandfather's Hammer",
+  "version": 1,
+  "summary": "A dark little post human fable called Grandfather's Hammer.",
+  "date": "2015-09-14",
+  "dateString": "14/9/2015",
+  "orientation": "landscape",
+  "creators": [
+    {
+      "name": "Daniel Merlin Goodbrey",
+      "role": "Author"
+    },
+    {
+      "name": "Will Oates",
+      "role": "Electrificator"
+    }
+  ],
   "screenW": 1024,
   "screenH": 768,
   "pxRatio": 1,
@@ -243,8 +258,8 @@
       "panels": [
         null,
         {
-          "id": "_tu3mg1pp2",
-          "src": "images/hammer30013.png",
+          "id": "_cfni1mnvq",
+          "src": "images/hammer30012.png",
           "x": 0,
           "y": 0,
           "z": 1,
@@ -252,7 +267,7 @@
           "h": "768",
           "naturalW": 0,
           "naturalH": 0,
-          "pageN": 12,
+          "pageN": "12",
           "panelN": 1
         }
       ]
